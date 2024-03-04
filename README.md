@@ -6,3 +6,5 @@ no se por que se puso rojo el texto la verdad
 Para ejecutar el programa debes poner:
 
 ````npm install react````
+
+Sistema de Registro 2
